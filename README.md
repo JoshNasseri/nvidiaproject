@@ -24,4 +24,4 @@ To get my images, I had looked on kaggle and was able to gather my images of dif
 
 
  
-[View a video explanation here](video link)
+View a video demonstration here https://youtu.be/MkDOiMLElo4
